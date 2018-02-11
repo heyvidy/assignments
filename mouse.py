@@ -12,3 +12,4 @@ class Pointer(object):
 
 
 # Adding a comment to check my git history
+#Adding new comment
