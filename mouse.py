@@ -9,3 +9,6 @@ class Pointer(object):
 
 	def moveDown(self):
 		self.y -= 1
+
+
+# Adding a comment to check my git history
